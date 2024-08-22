@@ -152,7 +152,7 @@ function update(stock, date, amount, comparison) {
             profitLoss > 0 ? "profit" : "loss"
           } of $${Math.abs(profitLoss).toFixed(
             2
-          )} in my ${stock} stock investment over ${daysDifference} days! Discover your investment results on UpOrDown.com #StockMarket #Investing #UpOrDown #${stock}`;
+          )} in my ${stock} stock investment over ${daysDifference} days! Discover your investment results on UpDown.com #StockMarket #Investing #UpDown #${stock}`;
           const tweetUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(
             tweetText
           )}`;
