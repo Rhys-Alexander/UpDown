@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/a303ba24-4f1e-421f-b933-24e6305b50a8
 
-This is a hackathon project made alone by yours truly in one 7 hour working day.
+This is a hackathon project made alone by yours truly in one 7 hour working day for our Arm internal hackathon.
 
 I was awarded the prize for the best project highlighting my impressive UI as well as the best presentation.
 
